@@ -1,1 +1,4 @@
-script: google-chrome-stable
+language: bash
+script:
+- ls -la /opt/google/chrome/chrome-sandbox
+- google-chrome-stable
