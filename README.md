@@ -23,3 +23,4 @@ The command "google-chrome-stable" exited with 134.
 ## See also
 
 - [soulshake/google-chrome-xenial-issue-repro](https://hub.docker.com/r/soulshake/google-chrome-xenial-issue-repro) minimal Docker image
+- https://github.com/travis-ci/packer-templates/issues/538#issuecomment-348522269
